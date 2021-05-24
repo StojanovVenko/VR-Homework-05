@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]-[[:space:]]Homework[[:space:]]05[[:space:]]-[[:space:]]Video[[:space:]]ilustration.mp4 filter=lfs diff=lfs merge=lfs -text
